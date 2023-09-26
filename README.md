@@ -7,5 +7,14 @@ Just note that this is still **IN!** development.
 # 📚 Additional Credits
 - Timeless and Classics
   - made by TheRealClumsyAlien
-
+# 💻 Usage and Contribution
+- Do not upload the modpack to the sites like **Curseforge** or **Modrinth**, those mod launchers are gonna be releasing by me soon *IF!* Curseforge and Modrinth allows it.
+# 🔍 FAQ
+- What versions this modpack will use?
+> Right now, we're using 1.16.5 but if **Timeless and Classics** updates to a newer version then we'll upgrade to that, but right now 1.16.5 is the use for the modpack. If you do not like the version, im sorry but you gotta wait until **Timeless and Classics** releases a newer version of the mod.
+- Will the modpack come out to Fabric?
+> No, it won't and stop begging for the modpack to release on fabric.
+- When is better combat coming out for the modpack?
+> Uhh, never because theres no 1.16.5 version for it.
+If you feel that your question is missing, go to my twitter and respond one of my tweets.
 
