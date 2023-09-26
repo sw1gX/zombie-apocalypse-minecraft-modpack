@@ -7,6 +7,7 @@ The modpack might be releasing after 2-3 devlog videos releases so i think the m
 # 🔗 Socials
 - My Twitter: https://twitter.com/x_sw1g
 - My Website: coming soon
+- Youtube Channel for Devlogs: https://www.youtube.com/channel/UCXpw3clkh6Hgx7alTSA38xQ
 # 📚 Additional Credits
 - Timeless and Classics
   - made by TheRealClumsyAlien
