@@ -2,6 +2,8 @@
 The version is 1.16.5, a minecraft modpack centered to make a *realistic* Minecraft Zombie Apocalypse. It has realistic guns, cool animations and a big city filled with apocalypse.
 Just note that this is still **IN!** development.
 It is **HIGHLY RECOMMENDED!!** to install **Modrinth App** or other mod launchers to export the mod into your launcher so that you can play the modpack, but other then nothing, **Modrinth is recommended for the modpack**, else you can just try to export it on a different mod launcher.
+# ⌚ Release Date
+The modpack might be releasing after 2-3 devlog videos releases so i think the modpack **will** be finished and free to play, other then that so there's gonna be a **Pro Version**, which adds more things rather then the free edition, but **Pro Version** is not releasing instantly.
 # 🔗 Socials
 - My Twitter: https://twitter.com/x_sw1g
 - My Website: coming soon
