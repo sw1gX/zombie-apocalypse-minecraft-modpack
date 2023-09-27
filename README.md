@@ -1,4 +1,4 @@
-# 🧟‍♂️ Zombie Apocalypse Modpack / Minecraft
+# 🧟‍♂️ Toast's Wasteland / Minecraft
 The version is 1.16.5, a minecraft modpack centered to make a *realistic* Minecraft Zombie Apocalypse. It has realistic guns, cool animations and a big city filled with apocalypse.
 Just note that this is still **IN!** development.
 It is **HIGHLY RECOMMENDED!!** to install **Modrinth App** or other mod launchers to export the mod into your launcher so that you can play the modpack, but other then nothing, **Modrinth is recommended for the modpack**, else you can just try to export it on a different mod launcher.
